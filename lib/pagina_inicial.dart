@@ -73,7 +73,7 @@ class _HomeState extends State<Home> {
         child:
         Container(
           height: 100,
-          color: Colors.green,
+          color: Colors.blueGrey,
           child: Center(child: Text('Exemplo', style: TextStyle(
             fontSize: 50,
           ),),),
